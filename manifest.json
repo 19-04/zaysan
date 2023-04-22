@@ -1,0 +1,24 @@
+{
+  "background_color": "#ffffff",
+  "description": "Қосымша орнату",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "zaysan_city",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Zaysan",
+  "start_url": "/https://19-04.github.io/zaysan/",
+  "theme_color": "#000000",
+  "categories": [
+    "news",
+    "security",
+    "social"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "display_override": [
+    "standalone"
+  ],
+  "lang": "kk"
+}
